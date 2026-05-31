@@ -1,3 +1,9 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Credit Card Risk & Portfolio Analytics Dashboard
 
 ## Project Overview
@@ -10,7 +16,7 @@ customer credit risk and repayment patterns.
 ## Tableau Public Dashboard
 
 **Interactive Dashboard:**\
-https://public.tableau.com/views/CreditCardRiskAndPortfolioAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<https://public.tableau.com/views/CreditCardRiskAndPortfolioAnalytics/Dashboard1>?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Tools Used
 
@@ -61,24 +67,9 @@ statements - Previous payments - Default status for the following month
 -   Most customers fall within lower to mid-range credit limit
     categories.
 
-## Skills Demonstrated
-
--   Data Cleaning and Exploration
--   Business Intelligence Reporting
--   Dashboard Design
--   KPI Development
--   Data Storytelling
--   Interactive Filtering and User Experience Design
--   Risk Analysis
-
 ## Dashboard Preview
 
-Add a screenshot of the dashboard in the repository and reference it
-below:
-
-``` text
-images/dashboard_screenshot.png
-```
+![Credit Card Risk Dashboard](dashboard_screenshot.png)
 
 ## Project Summary
 
